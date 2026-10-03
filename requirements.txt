@@ -1,0 +1,8 @@
+streamlit
+requests
+python-dotenv
+google-genai
+nbformat
+markdown
+pdfkit
+weasyprint
